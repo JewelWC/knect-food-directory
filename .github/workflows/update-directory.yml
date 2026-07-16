@@ -1,0 +1,26 @@
+name: Update KNECT directory
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Rebuild directory from Airtable
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+        run: node build.js
+      - name: Commit refreshed data
+        run: |
+          git config user.name "knect-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json logos
+          git commit -m "Auto-update directory data" || echo "No changes to commit"
+          git push
