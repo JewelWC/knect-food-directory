@@ -1,5 +1,5 @@
 {
- "updated": "preview",
+ "updated": "16 July 2026",
  "org": "KNECT — Buller Food Network",
  "records": [
   {
@@ -12,31 +12,7 @@
    "phone": "",
    "email": "",
    "social": "",
-   "logo": null
-  },
-  {
-   "name": "Fresh Choice Westport",
-   "segment": "Distribution & Retail",
-   "subtype": "Grocer",
-   "town": "Westport",
-   "description": "",
-   "website": "https://westport.store.freshchoice.co.nz/",
-   "phone": "",
-   "email": "chris.jennens@freshchoicewestport.com",
-   "social": "",
-   "logo": null
-  },
-  {
-   "name": "Interfood Grocery",
-   "segment": "Distribution & Retail",
-   "subtype": "Grocer",
-   "town": "Westport",
-   "description": "",
-   "website": "https://www.interfood.co.nz/",
-   "phone": "",
-   "email": "interfood278@gmail.com",
-   "social": "",
-   "logo": null
+   "logo": "logos/recEO7Crk6plalZ3u.jpg"
   },
   {
    "name": "El Fogón del Sur",
@@ -48,67 +24,7 @@
    "phone": "021 150 3648",
    "email": "fogondelsurnz@gmail.com",
    "social": "https://www.facebook.com/elfogondelsur/",
-   "logo": null
-  },
-  {
-   "name": "Tu Meke Tucker",
-   "segment": "Hospitality & Foodservice",
-   "subtype": "",
-   "town": "Cape Foulwind",
-   "description": "",
-   "website": "",
-   "phone": "",
-   "email": "tumeketrade@gmail.com",
-   "social": "https://www.facebook.com/profile.php?id=61588143939022",
-   "logo": null
-  },
-  {
-   "name": "Whanake Gallery Espresso Bar",
-   "segment": "Hospitality & Foodservice",
-   "subtype": "Café",
-   "town": "Westport",
-   "description": "",
-   "website": "",
-   "phone": "",
-   "email": "sales@whanake.co.nz",
-   "social": "https://www.facebook.com/p/Whanake-Gallery-Espresso-Bar-100063531127586/",
-   "logo": null
-  },
-  {
-   "name": "Kawatiri Coffee Roasting",
-   "segment": "Processors & Makers",
-   "subtype": "Roastery",
-   "town": "Westport",
-   "description": "",
-   "website": "https://kawatiri.coffee/",
-   "phone": "",
-   "email": "admin@kawatiri.coffee",
-   "social": "",
-   "logo": null
-  },
-  {
-   "name": "Shortjaw Brewing",
-   "segment": "Processors & Makers",
-   "subtype": "Brewing / Distilling",
-   "town": "Westport",
-   "description": "",
-   "website": "https://shortjaw.co.nz/",
-   "phone": "",
-   "email": "luke@shortjaw.co.nz",
-   "social": "",
-   "logo": null
-  },
-  {
-   "name": "The Cowshed Cafe",
-   "segment": "Hospitality & Foodservice",
-   "subtype": "Café",
-   "town": "Mokihinui",
-   "description": "",
-   "website": "https://gentleannie.co.nz/",
-   "phone": "",
-   "email": "thefolk@gentleannie.co.nz",
-   "social": "",
-   "logo": null
+   "logo": "logos/recobk2TudTXqI4wX.jpg"
   },
   {
    "name": "Espresso Lane",
@@ -120,7 +36,91 @@
    "phone": "",
    "email": "",
    "social": "https://www.instagram.com/espressolane_/",
-   "logo": null
+   "logo": "logos/recR4n7uPBSANRu36.jpg"
+  },
+  {
+   "name": "Fresh Choice Westport",
+   "segment": "Distribution & Retail",
+   "subtype": "Grocer",
+   "town": "Westport",
+   "description": "",
+   "website": "https://westport.store.freshchoice.co.nz/",
+   "phone": "",
+   "email": "chris.jennens@freshchoicewestport.com",
+   "social": "",
+   "logo": "logos/rec5DB9B2L0VVLgro.jpg"
+  },
+  {
+   "name": "Interfood Grocery",
+   "segment": "Distribution & Retail",
+   "subtype": "Grocer",
+   "town": "Westport",
+   "description": "",
+   "website": "https://www.interfood.co.nz/",
+   "phone": "",
+   "email": "interfood278@gmail.com",
+   "social": "",
+   "logo": "logos/rece8DhoUQtleN6EO.jpg"
+  },
+  {
+   "name": "Kawatiri Coffee Roasting",
+   "segment": "Processors & Makers",
+   "subtype": "Other",
+   "town": "Westport",
+   "description": "",
+   "website": "https://kawatiri.coffee/",
+   "phone": "",
+   "email": "admin@kawatiri.coffee",
+   "social": "",
+   "logo": "logos/rece7t2DTJk0dxzYw.jpg"
+  },
+  {
+   "name": "Shortjaw Brewing",
+   "segment": "Processors & Makers",
+   "subtype": "Brewing / Distilling",
+   "town": "Westport",
+   "description": "",
+   "website": "https://shortjaw.co.nz/",
+   "phone": "",
+   "email": "luke@shortjaw.co.nz",
+   "social": "",
+   "logo": "logos/reczFo8aa03ILwAFT.png"
+  },
+  {
+   "name": "The Cowshed Cafe",
+   "segment": "Hospitality & Foodservice",
+   "subtype": "Café",
+   "town": "Mokihinui",
+   "description": "",
+   "website": "https://gentleannie.co.nz/",
+   "phone": "",
+   "email": "thefolk@gentleannie.co.nz",
+   "social": "",
+   "logo": "logos/reccebzCDmcAfXSCH.jpg"
+  },
+  {
+   "name": "Tu Meke Tucker",
+   "segment": "Hospitality & Foodservice",
+   "subtype": "",
+   "town": "Cape Foulwind",
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "tumeketrade@gmail.com",
+   "social": "https://www.facebook.com/profile.php?id=61588143939022",
+   "logo": "logos/rec1AO7dELcadloYN.jpg"
+  },
+  {
+   "name": "Whanake Gallery Espresso Bar",
+   "segment": "Hospitality & Foodservice",
+   "subtype": "Café",
+   "town": "Westport",
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "sales@whanake.co.nz",
+   "social": "https://www.facebook.com/p/Whanake-Gallery-Espresso-Bar-100063531127586/",
+   "logo": "logos/rec2dcyJB2dPI0DzH.jpg"
   }
  ]
 }
